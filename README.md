@@ -1,7 +1,7 @@
 This is a template for modular react.
 
 Features:
-- Routing with `react-location`
+- Asyncronious routing with `react-location`
 - Prefetching with `react-location`
 - Pages are loaded as `modules`
 
